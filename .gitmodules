@@ -1,3 +1,6 @@
 [submodule "React-Native-Homework-1"]
 	path = React-Native-Homework-1
 	url = https://github.com/ITStep-Homework/React-Native-Homework-1
+[submodule "React-Native-Homework-2"]
+	path = React-Native-Homework-2
+	url = https://github.com/ITStep-Homework/React-Native-Homework-2
